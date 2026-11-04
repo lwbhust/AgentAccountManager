@@ -1,0 +1,14 @@
+.build/
+dist/
+.screenshots/
+*.xcodeproj/xcuserdata/
+.DS_Store
+
+# 内部审计截图、过程报告与调研材料（不进入开源发布）
+docs/ui-audit/
+docs/ARCHITECTURE_AUDIT.md
+docs/REFACTORING_REPORT.md
+01-技术调研报告.md
+P0-三工位工作台技术方案.md
+UX_OPTIMIZATION_REPORT.md
+icon-1024.png
