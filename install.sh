@@ -17,7 +17,13 @@ OPEN_AFTER=true
 TMP_CLONE=""
 
 usage() {
-    sed -n '2,12p' "$0" | sed 's/^# \{0,1\}//'
+    cat <<'EOF'
+用法：
+  ./install.sh                构建并安装到 /Applications（不可写时回退 ~/Applications）
+  ./install.sh --no-install   只构建，产物在 dist/AgentAccountManager.app
+  ./install.sh --no-open      安装后不自动启动
+  ./install.sh --help         查看帮助
+EOF
 }
 
 for arg in "$@"; do
