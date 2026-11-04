@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon-master.jpg" width="120" alt="Agent 账号管理器图标" />
+![Agent 账号管理器图标](assets/icon-200.png)
 
 # Agent 账号管理器
 
