@@ -1,6 +1,6 @@
 <div align="center">
 
-![Agent 账号管理器图标](https://github.com/lwbhust/AgentAccountManager/raw/main/assets/icon-200.png)
+![Agent 账号管理器图标](https://cdn.jsdelivr.net/gh/lwbhust/AgentAccountManager@main/assets/icon-200.png)
 
 # Agent 账号管理器
 
